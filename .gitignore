@@ -1,0 +1,47 @@
+# Python related files
+
+*.dat
+*.egg
+*.egg-info
+*.py[cod]
+.eggs
+TAGS
+build
+
+# Test related files
+
+*.log
+.coverage
+.coverage.*
+.testrepository/*
+.tox
+.venv
+cover
+flake8_results.html
+functionaltests/.testrepository/
+functionaltests/tempest.log
+htmlcov/
+venv
+
+# Eclipse
+.project
+.pydevproject
+.settings
+
+# Editors
+*~
+.*.swp
+
+# Sphinx
+doc/build
+
+# PyCharm
+.idea/
+
+# Rope
+.ropeproject/
+
+# Codimension
+*.cdm
+
+etc/vxnet/vxnet.conf*
